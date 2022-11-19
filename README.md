@@ -5,4 +5,4 @@
 - 🌱 I’m currently learning About Pwn
 - 💬 Ask me about Pwn techs
 - 📫 How to reach me: retr0@retr0.blog
-- ⚡ Fun fact: I am a typical FOMO
+- ⚡ Fun Question: Do you know why Linux started to use tcache?
