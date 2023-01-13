@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-👽️ Currently a 13 Years old student in China, Shanghai.
+Currently a 14 Years old student in China, Shanghai.
 
 - 🌱 I’m currently learning About Pwn
 - 💬 Ask me about Pwn techs
