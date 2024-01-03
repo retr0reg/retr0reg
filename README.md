@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-Currently a 14 Years old student in China, Shanghai.\n
-Full stack Python, focused on langchain and binary related developments <3
+Currently a 14 Years old student in China, Shanghai.
+
+Full stack Python, focused on langchain and binary related developments <3, Starter and developer for chatwithbinary.com
 
 - 🪬 6 CVE certificate
 - 🌱 I’m currently learning About Pwn
