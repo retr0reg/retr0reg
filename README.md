@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Currently a 14 Years old student in China, Shanghai.
+Currently a 14 Years old student in China, Shanghai.\n
 Full stack Python, focused on langchain and binary related developments <3
 
 - 🪬 6 CVE certificate
