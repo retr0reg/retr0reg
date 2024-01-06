@@ -10,7 +10,6 @@ Currently a 14 Years old student in China, Shanghai. Full stack Python, focused 
 - 💬 PicoCTF 22 36th
 - 📌 Currently on Bilibili, giving free Pwn tutorials
 - 🔍 Foucing on application of NLP in Pwn
-- ⚡ Fun Question: Do you know why Linux started to use tcache?
 
   
 *For contact, please email retr0@retr0.blog*
