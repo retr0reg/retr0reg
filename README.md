@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Starter and developer for [@chatwithbinary.com](chatwithbinary.com).
+Starter and developer for [@chatwithbinary.com](https://chatwithbinary.com).
 
 Currently a 14-year-old student in China, Shanghai. Full-stack Python developer, focused on binary exploitation-related developments
 
