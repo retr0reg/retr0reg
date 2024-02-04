@@ -1,8 +1,6 @@
-### Hi there 👋
+Starter and developer for [@chatwithbinary.com](https://chatwithbinary.com) & [AutoGDB](https://github.com/retr0reg/AutoGDB).👋
 
-Starter and developer for [@chatwithbinary.com](https://chatwithbinary.com).
-
-Currently a 14-year-old student in China, Shanghai. Full-stack Python developer, focused on binary exploitation-related developments
+Currently a 14-year-old student in China, Shanghai. Python & C vuln hunt,  Full-stack Python developer, focused on binary exploitation-related developments.
 
 
 
