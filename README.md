@@ -5,7 +5,7 @@ Currently a 14-year-old student in China, Shanghai. Python & C vuln hunt,  Full-
 
 
 - 6 CVE certificate
-- Transformer CLI RCE
+- Transformer Package RCE
 - PicoCTF 22 36th
 - Youngest member in Tencent T-Spark program
 - Currently on Bilibili, giving free Pwn tutorials
