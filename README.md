@@ -1,15 +1,13 @@
-Security Researcher && Developer. Starter and developer for [@chatwithbinary.com](https://chatwithbinary.com) & [AutoGDB](https://github.com/retr0reg/AutoGDB)
+## Security Researcher & Developer
 
-Currently a 14-year-old student in China, Shanghai. Python & C vuln hunt,  Full-stack Python developer, focused on binary exploitation-related developments.
+Passionate and innovative Security Researcher and Developer, starter and developer for [@chatwithbinary.com](https://chatwithbinary.com) & [AutoGDB](https://github.com/retr0reg/AutoGDB). At the age of 14, I am currently pursuing my studies in Shanghai, China, and dedicating my skills to vulnerability hunting in Python and C, as well as full-stack development with a focus on binary exploitation.
 
 
 
-- 6 CVE certificate
-- Transformer Package RCE
-- PicoCTF 22 36th
-- Youngest member in Tencent T-Spark program
-- Currently on Bilibili, giving free Pwn tutorials
-- Focusing on the application of NLP in Pwn
-
+- ❕ 12 `CVE` in various OSS Projects
+- 🤗 Identified and resolved a `Remote Code Execution (RCE)` vulnerability in `huggingface/transformers`.
+- 🚩 Achieved 36th place in PicoCTF 22
+- ✨ Member of `Tencent T-Spark program`
+- 👀 `NLP` && `Pwn`
   
-*For contact, please email retr0@retr0.blog*
+Feel free to reach out to me for collaborations or inquiries at
