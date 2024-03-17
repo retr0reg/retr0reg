@@ -11,5 +11,3 @@ Passionate and innovative Security Researcher and Developer, starter and develop
 - 👀 `NLP` && `Pwn`
   
 Feel free to reach out to me for collaborations or inquiries at 0reg@0reg.dev
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=retr0reg)](https://github.com/anuraghazra/github-readme-stats)
