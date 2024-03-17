@@ -10,4 +10,4 @@ Passionate and innovative Security Researcher and Developer, starter and develop
 - ✨ Member of `Tencent T-Spark program`
 - 👀 `NLP` && `Pwn`
   
-Feel free to reach out to me for collaborations or inquiries at
+Feel free to reach out to me for collaborations or inquiries at 0reg@0reg.dev
