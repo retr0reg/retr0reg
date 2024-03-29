@@ -1,4 +1,4 @@
-## Retr0REG
+## Security Researcher and Developer
 
 Passionate and innovative Security Researcher and Developer, starter and developer for [@chatwithbinary.com](https://chatwithbinary.com) & [AutoGDB](https://github.com/retr0reg/AutoGDB). At the age of 14, I am currently pursuing my studies in Shanghai, China, and dedicating my skills to vulnerability hunting in `Python` and `C`, as well as full-stack development with a focus on `binary exploitation`.
 
