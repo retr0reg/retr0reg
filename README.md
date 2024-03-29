@@ -5,7 +5,7 @@ Passionate and innovative Security Researcher and Developer, starter and develop
 
 
 - ❕ 12 `CVE` in various OSS Projects
-- 🤗 Identified and resolved a `Remote Code Execution (RCE)` vulnerability in `huggingface/transformers`.
+- 🤗 Identified and resolved **2 `Remote Code Execution (RCE)` vulnerability in `huggingface/transformers`**
 - 🚩 Achieved 10th place in PicoCTF 24, 36th in PicoCTF 22
 - ✨ Member of `Tencent T-Spark program`
 - 👀 `NLP` && `Pwn`
