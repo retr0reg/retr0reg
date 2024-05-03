@@ -4,7 +4,7 @@ Passionate and innovative Security Researcher and Developer, starter and develop
 
 
 
-- ❕ 20 `CVE` in in `Transformers`, `Managebac`, `PrivateGPT`, `lollm-webui`, `Binaries` ....
+- ❕ 20 `CVE` in in `Transformers`, `Managebac`, `PrivateGPT`, `lollm-webui`, `Tenda Routers` ....
 - 🤗 Identified and resolved 2 `Remote Code Execution (RCE)` vulnerability in `huggingface/transformers`
 - 🚩 10th place in PicoCTF 24, 36th in PicoCTF 22
 - 👀 `NLP` && `Pwn`
