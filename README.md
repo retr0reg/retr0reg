@@ -1,7 +1,7 @@
 ## Patrick Peng
 #### Starter and developer for `@chatwithbinary.com` & `AutoGDB`
 
-15 Years-old Thread Researcher focused on `AI/ML` `OSS Community` `Applicational` / `Model` Security, developing on `NLP-based` automation-exploitation field.
+15 Years-old Thread Researcher focused on `AI/ML` `OSS Community` Applicational / Model Security, developing on `NLP-based` automation-exploitation field.
 
 - ❕ 21 `CVE` in in `Transformers`, `llama-cpp-python`, `Managebac`, `PrivateGPT`, `lollm-webui`, `Tenda Routers` ....
 - 🤗 Identified and resolved 2 `Remote Code Execution (RCE)` vulnerability in `huggingface/transformers`
