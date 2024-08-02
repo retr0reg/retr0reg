@@ -1,1 +1,1 @@
-Starter for @Protosec.ai; 15 years-old Full-Stack Threat Researcher focusing on AI/ML
+Full-Stack Threat Researcher. Founder of [@Protosec.ai](https://protosec.ai). 22 CVEs and RCEs in Transformers, Llama-cpp-python, PrivateGPT; 10th placed globally in PicoCTF(24)
