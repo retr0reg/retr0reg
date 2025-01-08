@@ -2,7 +2,7 @@
 
 Aiming for MIT / googleprojectzero!
 
-✨ Spotlight
+Spotlight
 - `Evernote RCE: From PDF.js font-injection to All-platform Electron exposed ipcRenderer with listened BrokerBridge Remote-Code Execution` [->](https://0reg.dev/blog/evernote-rce)
 - `Supply-Chain Attacks in LLMs: From GGUF model format metadata RCE, to State-of-The-Art NLP Project RCEs` [->](https://0reg.dev/blog/from-gguf-model-format-metadata-rce-to-state-of-the-art-nlp-project-rces)
 - `ROPing Routers from scratch: Step-by-step Tenda Ac8v4 Mips 0day Flow-control ROP -> RCE` [->](https://0reg.dev/blog/tenda-ac8-rop)
