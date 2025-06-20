@@ -1,4 +1,4 @@
-16 years-old Security Researcher on Low-levels _(I'm interested in everything)_. Development of `NLP/ML` with security-automation. CVEs and RCEs in `Llama.cpp`, `Transformers`, `Tensorflow`, `LlamaFile`, `Llama-cpp-python`, `PrivateGPT`; `Evernote`, `Managebac`... (Experience at [Linkedin Project Description](https://www.linkedin.com/in/patrick-retr0reg-peng/details/projects/)) Blog at [Retr0's Register](https://retr0.blog/blog). 
+16 years-old Security Researcher on Low-levels _(I'm interested in everything)_. Development of `NLP/ML` with security-automation. CVEs and RCEs in `Llama.cpp`, `Transformers`, `Tensorflow`, `LlamaFile`, `Llama-cpp-python`, `PrivateGPT`; `Evernote`, `Managebac`... Blog at [Retr0's Register](https://retr0.blog/blog). 
 
 Aiming for MIT / googleprojectzero!
 
