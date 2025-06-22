@@ -1,6 +1,6 @@
 16 years-old founder, researcher and an actor.
 
-Author of retr0.blog
+Author of retr0.blog:
   - Llama's Paradox - Delving deep into Llama.cpp and exploiting Llama.cpp's Heap Maze, from Heap-Overflow to Remote-Code Execution
   - Evernote RCE: From PDF.js font-injection to All-platform Electron exposed ipcRenderer with listened BrokerBridge Remote-Code Execution
   - Supply-Chain Attacks in LLMs: From GGUF model format metadata RCE, to State-of-The-Art NLP Project RCEs
