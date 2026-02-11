@@ -1,7 +1,8 @@
-16 years-old founder and researcher in ML w/ memory security. 
-founder, R&D, infra, product @ pwno.io
+16 years-old dude on security of the lowest parts of computer systems, building ais for that as well (@pwno).
 
-Author of retr0.blog:
+contributor (security stuff) for ffmpeg, linux, v8...
+
+I also run retr0.blog:
   - Llama's Paradox: Llama.cpp RPC heap-overflow remote-code execution
   - Evernote RCE: ipcRenderer with listened BrokerBridge Remote-Code Execution
   - Supply-Chain Attacks in LLMs: GGUF metadata RCE
