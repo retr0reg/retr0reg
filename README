@@ -2,7 +2,7 @@
 
 contributor (security stuff) for ffmpeg, linux, v8...
 
-I also run retr0.blog:
+i also run retr0.blog:
   - Llama's Paradox: Llama.cpp RPC heap-overflow remote-code execution
   - Evernote RCE: ipcRenderer with listened BrokerBridge Remote-Code Execution
   - Supply-Chain Attacks in LLMs: GGUF metadata RCE
