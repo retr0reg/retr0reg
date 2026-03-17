@@ -1,8 +1,8 @@
-16 years-old dude on security of the lowest parts of computer systems, building ais for that as well (@pwno).
+16 years-old, I work on the security of the lowest part of computer systems, building ML for that as well (@pwno.io).
 
-contributor (security stuff) for ffmpeg, linux, ggml, v8...
+contributor (security stuff) for ffmpeg, linux, ggml, v8. 
 
-i also run retr0.blog:
+I run retr0.blog, story-tell of memory bugs
   - Llama's Paradox: Llama.cpp RPC heap-overflow remote-code execution
   - Evernote RCE: ipcRenderer with listened BrokerBridge Remote-Code Execution
   - Supply-Chain Attacks in LLMs: GGUF metadata RCE
